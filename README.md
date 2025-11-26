@@ -1,4 +1,4 @@
-#Mexican food api 🌮🌶️🌯
+# Mexican food api 🌮🌶️🌯
 A small project created to practice API development in Java
 Even though it’s not my favorite language, it’s an important one, and I genuinely enjoy working with it.
 
